@@ -1,0 +1,7 @@
+# Arquivos OpenLayers
+/node_modules/
+/dist/
+
+# Arquivos GeoJSON
+*.geojson
+*.json
